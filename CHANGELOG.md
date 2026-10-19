@@ -2,6 +2,13 @@
 
 ## Untagged
 
+## [8.10.1](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v8.10.0...v8.10.1) (2026-10-19)
+
+
+### Bug Fixes
+
+* Allow snowflake-sqlalchemy to manage own dependencies ([#1855](https://github.com/GoogleCloudPlatform/professional-services-data-validator/issues/1855)) ([70f1ffa](https://github.com/GoogleCloudPlatform/professional-services-data-validator/commit/70f1ffaa5638190d6af2c378a72e69bda09dc134))
+
 ## [8.10.0](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v8.9.3...v8.10.0) (2026-10-01)
 
 
